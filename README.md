@@ -1,2 +1,2 @@
-# what is this and why do i need it if cedar is already on github????????????????
-Original Cedar's signups are broken which is why this was uploaded.
+#why is this here?
+This is here to fix the Original Cedar code, such as the Admin Panel, sign ups, and more.
